@@ -1,0 +1,2 @@
+// VocabularyRepository のインタフェース
+interface IVocabularyRepository {}
